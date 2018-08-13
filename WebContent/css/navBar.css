@@ -1,0 +1,25 @@
+.sidebar {
+  background-color: #969393;
+  overflow: auto;
+  width:100%;
+}
+
+.sidebar a {
+  display: block;
+  color: black;
+  padding-top: 16px;
+  padding-bottom:16px;
+  text-align: center;
+  text-decoration: none;
+  background-color: #969393;
+  
+ }
+
+
+
+.sidebar a:hover{
+  background-color: #4f4f4f;
+  text-decoration: none;
+  color: white;
+  width: 100%;
+}
